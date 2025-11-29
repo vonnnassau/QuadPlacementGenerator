@@ -1,11 +1,11 @@
 {
-  "mask": "./masks/skull.png",
+  "mask": "./masks/mask-skull.png",
   "tileMetadata": "./tile_metadata.json",
   "output": "./output/placements.json",
 
-  "density": 0.65,
-  "minScale": 0.35,
-  "maxScale": 1.25,
+  "density": 1.0,
+  "minScale": 0.4,
+  "maxScale": 1.4,
   "zLayers": {
     "front": { "min": 0.6, "max": 1.0 },
     "mid": { "min": 0.3, "max": 0.6 },
