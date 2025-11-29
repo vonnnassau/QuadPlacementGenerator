@@ -1,0 +1,13 @@
+{
+  "name": "quad-placement-generator",
+  "version": "1.0.0",
+  "description": "Generates 2D/3D placements for Quad Engine from masks and tile metadata.",
+  "main": "generatePlacements.js",
+  "scripts": {
+    "generate": "node generatePlacements.js"
+  },
+  "dependencies": {
+    "pngjs": "^7.0.0",
+    "seedrandom": "^3.0.5"
+  }
+}

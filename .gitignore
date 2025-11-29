@@ -1,0 +1,5 @@
+node_modules/
+tile_metadata.json
+output/
+masks/
+.DS_Store
